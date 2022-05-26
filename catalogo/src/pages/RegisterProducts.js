@@ -43,6 +43,12 @@ function RegisterProducts() {
             name="description"
           />
         </label>
+
+        <button
+          type="button"
+        >
+          Cadastrar
+        </button>
       </form>
     </section>
   )

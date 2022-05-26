@@ -38,7 +38,7 @@ function Login() {
         </label>
         <button
           type="button"
-          onClick={history.push('/register')}
+          onClick={ () => history.push('/register')}
            
         >
           Enter
